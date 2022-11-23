@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media.discordapp.net/attachments/963527289344233485/1025178117674893392/d4f3b2e3-2ec4-4a82-a47e-76973fc3ab2d_copy.jpg" align="right" width="200" height="auto">
+<img src="https://media.discordapp.net/attachments/963527289344233485/1025178117674893392/d4f3b2e3-2ec4-4a82-a47e-76973fc3ab2d_copy.jpg" align="right" width="220" height="auto">
 
 
 ##### Hi, I am Computer Science student.
