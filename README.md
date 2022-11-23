@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**respuNN/respuNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.discordapp.net/attachments/963527289344233485/1025178117674893392/d4f3b2e3-2ec4-4a82-a47e-76973fc3ab2d_copy.jpg" align="right" width="300" height="auto">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Hi, I am Computer Science student.
+
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/IGA/)](https://github.com/IGA/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&logo=php)
+<hr/>
+
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+<hr/>
+
+- 🔭 I’m currently working on Discord bots.
+- 🌱 I’m currently learning Python and C
