@@ -13,10 +13,10 @@
 <hr/>
 
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 <hr/>
 
-- 🔭 I’m currently working on Discord bots.
-- 🌱 I’m currently learning Python and C
+#####  🔭 I’m currently working on Discord bots.
+#####  🌱 I’m currently learning Python and C
