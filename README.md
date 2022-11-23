@@ -5,6 +5,7 @@
 
 ##### Hi, I am Computer Science student.
 ##### Currently working on Discord bots and learning Python and C
+<hr/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
