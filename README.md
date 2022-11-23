@@ -1,6 +1,14 @@
-### Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> , I am Computer Science student.
-#### Planning to work on Lua soon.
+<style>
+
+#div{
+float:right;
+}
+</style>
+
+#### Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> , I am Computer Science student.
 <hr/>
+
+<div id="div1">
 
 ##### Frontend languages that I use:
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)</br>
@@ -17,10 +25,13 @@
 ![JAVA](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)</br>
 ![Lua](https://img.shields.io/badge/-Lua-222222?style=flat&logo=lua)   ![](https://img.shields.io/badge/-Planning%20to%20learn%20soon.-lightgrey)</br>
 <hr/>
+</div>
+
+<div id="div2">
 
 ##### Platforms that I use:
 ![ANDROID](https://img.shields.io/badge/-Android-222222?style=flat&logo=android) </br>
-![UE](https://img.shields.io/badge/-Unreal%20Engine-222222?style=flat&logo=unrealengine)</br>
+![UE](https://img.shields.io/badge/-Unreal%20Engine-222222?style=flat&logo=unrealengine)   ![](https://img.shields.io/badge/-Planning%20to%20learn%20soon.-lightgrey)</br>
 ![UNITY](https://img.shields.io/badge/-Unity-222222?style=flat&logo=unity)</br>
 <hr/>
 
@@ -30,7 +41,4 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-222222?style=flat&logo=adobeillustrator)</br>
 ![AfterEffects](https://img.shields.io/badge/-After%20Effects-222222?style=flat&logo=adobeaftereffects)</br>
 ![Blender](https://img.shields.io/badge/-Blender-222222?style=flat&logo=blender) ![](https://img.shields.io/badge/-Currently%20learning.-green)</br>
-<hr/>
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)</br>
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)<hr/>
+</div>
