@@ -7,10 +7,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)</br>
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)</br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)</br>
-![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&logo=php)</br>
 <hr/>
 
 ##### Backend languages that I use:
+![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&logo=php)</br>
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python) ![](https://img.shields.io/badge/-Currently%20learning.-green)</br>
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)   ![](https://img.shields.io/badge/-Planning%20to%20learn%20soon.-lightgrey)</br>
 ![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)</br>
