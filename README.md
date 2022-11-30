@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 
-##### Hi, this is Computer Science student.
+#####   Hi, this is Computer Science student.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=respunn&theme=omni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
