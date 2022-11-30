@@ -1,8 +1,11 @@
 <div align='center'>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=respunn&theme=omni&show_icons=true)
- 
-<hr>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=respunn&theme=omni&show_icons=true">
+</a>
+<a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=respuNN&langs_count=8">
+</a>
 
 #### Languages that I use:
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
@@ -17,10 +20,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-222222?style=flat&logo=lua)
  ![JAVA](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
 
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=respuNN&langs_count=8)
- 
- <hr>
+
  
 #### Programs that I use:
 ![PS](https://img.shields.io/badge/-Photoshop-222222?style=flat&logo=adobephotoshop)
@@ -29,4 +29,5 @@
 ![AfterEffects](https://img.shields.io/badge/-After%20Effects-222222?style=flat&logo=adobeaftereffects)
 ![Blender](https://img.shields.io/badge/-Blender-222222?style=flat&logo=blender)
 ![UNITY](https://img.shields.io/badge/-Unity-222222?style=flat&logo=unity)  
-</div>
+
+ </div>
