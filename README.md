@@ -2,7 +2,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=respunn&theme=omni&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=respunn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=respuNN&layout=compact)
 <hr>
 
 #### Languages that I use:
