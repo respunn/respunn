@@ -6,7 +6,9 @@
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=respuNN&langs_count=8">
 </a>
-
+<br>
+<br>
+  
 #### Languages that I use:
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
