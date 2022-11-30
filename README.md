@@ -34,4 +34,4 @@
 ![Blender](https://img.shields.io/badge/-Blender-222222?style=flat&logo=blender) ![](https://img.shields.io/badge/-Currently%20learning.-green)</br>
 <hr/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=respunn)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=respunn)](https://github.com/anuraghazra/github-readme-stats&theme=omni&show_icons=true)
