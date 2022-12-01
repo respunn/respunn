@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=respunn&theme=omni&show_icons=true">
 </a>
 <a>
-  <img align="right" src="xd.svg">
+  <img align="right" height='405px' src="fixedxd.svg">
 </a>
 <br>
 <br> 
