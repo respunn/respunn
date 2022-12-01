@@ -7,7 +7,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=respunN&langs_count=8">
 </a>
 <br>
-<br>
   
 #### Languages that I use:
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
@@ -32,4 +31,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-222222?style=flat&logo=blender)
 ![UNITY](https://img.shields.io/badge/-Unity-222222?style=flat&logo=unity)  
 
+###### All my repositories are private.
+  
+  
  </div>
