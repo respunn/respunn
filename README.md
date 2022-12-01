@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=respunn&theme=omni&show_icons=true">
 </a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=respuNN&langs_count=8">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=respunN&langs_count=8">
 </a>
 <br>
 <br>
