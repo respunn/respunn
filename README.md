@@ -1,7 +1,7 @@
 <div align='center'>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=respunn&theme=omni&show_icons=true">
+  <img align="center" height='195px' src="stats.svg">
 </a>
 <a>
   <img align="right" height='405px' src="fixedxd.svg">
