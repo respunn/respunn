@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is respuNN, and I'm currently a third-year computer engineering student from Turkey. I am currently continuing my education in Turkey, but until a few months ago I was studying in Poland. Currently I have already worked on small projects in Poland and Italy. I'm passionate about programming and have experience working with Python and C#. I love working on big projects and being a part of a team that creates something meaningful.
+My name is respuNN, and I'm currently a third-year computer engineering student from Turkey. I am currently continuing my education in Turkey, but until a few months ago I was studying in Poland. Currently I have already worked on small projects in Poland and Italy. I am currently working on a VR game called Illusa with my friends and we are planning to release this game on Steam platform in 1-2 years. I'm passionate about programming and have experience working with Python and C#. I love working on big projects and being a part of a team that creates something meaningful.
 
 ## Skills and Expertise
 
