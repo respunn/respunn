@@ -5,7 +5,7 @@ My name is respuNN, and I'm currently a third-year computer engineering student 
 ## Skills and Expertise
 
 - **Programming Languages:** Python, C#, HTML5, CSS, PHP
-- **Bot Development:** Discord bots at an advanced level
+- **Bot Development:** Discord bots at an advanced level, Twitch bots at an entry level
 - **Design:** Photoshop at an advanced level
 - **Video Editing and 3D Modeling:** Premiere Pro and Blender at an entry level
 - **Unity:** Working on Animation, VFX, and Scripting on Unity
