@@ -1,11 +1,12 @@
 # Hi there! 👋
 
-My name is respuNN, and I'm currently a third-year computer engineering student from Turkey. I am currently continuing my education in Turkey, but until a few months ago I was studying in Poland. Currently I have already worked on small projects in Poland and Italy. I am currently working on a VR game called Illusa with my friends and we are planning to release this game on Steam platform in 1-2 years. I'm passionate about programming and have experience working with Python and C#. I love working on big projects and being a part of a team that creates something meaningful.
+My name is respuNN, and I'm currently a third-year computer engineering student from Turkey. I am currently continuing my education in Turkey, but until a few months ago I was studying in Poland. Currently I have already worked on small projects in Poland and Italy. I am currently working on a VR game called Illusa with my friends and we are planning to release this game on Steam platform in 1-2 years. I'm passionate about programming and have experience working with Python, C#, HTML5, CSS, PHP, SQL, and SQLite. I love working on big projects and being a part of a team that creates something meaningful.
 
 ## Skills and Expertise
 
 - **Programming Languages:** Python, C#, HTML5, CSS, PHP
 - **Bot Development:** Discord bots at an advanced level, Twitch bots at an entry level
+- **Database Management:** SQL, SQLite
 - **Design:** Photoshop at an advanced level
 - **Video Editing and 3D Modeling:** Premiere Pro and Blender at an entry level
 - **Unity:** Working on Animation, VFX, and Scripting on Unity
@@ -23,6 +24,8 @@ My name is respuNN, and I'm currently a third-year computer engineering student 
     - *Music Bot:* A powerful music bot that allows users to play music in voice channels.
     - *Moderation Bot:* A bot that provides comprehensive moderation tools, including banning, kicking, and muting users.
     - *Games Bot:* A bot that provides a range of fun and interactive games that users can play in the Discord server.
+- **FiveM Server Monitoring Bot:** I have developed custom Discord bots for monitoring FiveM servers, providing real-time updates on server status, player count, and other important metrics. These bots can help server admins and players stay informed about the state of the server and make informed decisions about when to join or leave.
+- **Personal Discord Bot Development:** I offer custom bot development services for Discord users who need bots with specific features and functionality. Whether you need a bot for moderation, music, leveling, or something else entirely, I can work with you to develop a custom solution that meets your needs.
 
 
 ## Hobbies and Interests
