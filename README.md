@@ -27,14 +27,5 @@ My name is respuNN, and I'm currently a third-year computer engineering student 
 - **FiveM Server Monitoring Bot:** I have developed custom Discord bots for monitoring FiveM servers, providing real-time updates on server status, player count, and other important metrics. These bots can help server admins and players stay informed about the state of the server and make informed decisions about when to join or leave.
 - **Personal Discord Bot Development:** I offer custom bot development services for Discord users who need bots with specific features and functionality. Whether you need a bot for moderation, music, leveling, or something else entirely, I can work with you to develop a custom solution that meets your needs.
 
-
-## Hobbies and Interests
-
-- **Algorithm Questions:** I'm interested in algorithm questions and love to solve them. 
-- **Learning New Skills:** I'm always looking to expand my skillset and learn new things.
-- **Traveling:** When I'm not studying or working on projects, I love to travel and explore new places.
-- **Helping Others:** I love helping people with discord bots and all that I know in Unity. It makes me happy to have people jump into the coding and see what they can create.
-
 ## Contact Me
-
-- **Discord:** respuNN
+- **Discord:** @respunn
