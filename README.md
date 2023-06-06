@@ -37,4 +37,4 @@ My name is respuNN, and I'm currently a third-year computer engineering student 
 
 ## Contact Me
 
-- **Discord:** respuNN#0002
+- **Discord:** respuNN
