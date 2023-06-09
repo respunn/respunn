@@ -4,7 +4,7 @@
 <br>
 
 ### thingies
-python, c#, java, vfxs, shaders, photoshop, premiere pro, blender
+###### python, c#, java, vfxs, shaders, photoshop, premiere pro, blender
 
 <br>
 
