@@ -4,12 +4,9 @@
 <br>
 
 ### thingies
-
-###### Programming Languages: Python, C#, HTML5, CSS, PHP
-###### Unity: VFXs, Shaders and Scripting
-###### Apps: Photoshop, Premiere Pro, Blender
+python, c#, java, vfxs, shaders, photoshop, premiere pro, blender
 
 <br>
 
 ### contact me
-###### Discord: @respunn
+###### discord: @respunn
