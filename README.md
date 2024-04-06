@@ -1,12 +1,11 @@
-### hi
-###### My name is respuNN, and I'm currently a fourth-year computer engineering student from Turkey. I am currently continuing my education in Turkey, but before 2023 I was studying in Poland. Currently I have already worked on small projects in Poland and Italy.
+###### My name is respunn
 
 <br>
 
-### thingies
-###### python, c#, java, vfxs, shaders, photoshop, premiere pro, blender
+###### python, c#, java, 3d, adobe apps
 
 <br>
 
 ### contact me
 ###### discord: @respunn
+###### e-mail: kaan.dnc.7505@gmail.com
